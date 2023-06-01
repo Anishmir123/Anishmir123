@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mir Anish</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding " width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2i-JsqZ__8v0u46hvda8rR&ust=1685719773807000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPj_5tSxov8CFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding " width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2i-JsqZ__8v0u46hvda8rR&ust=1685719773807000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPj_5tSxov8CFQAAAAAdAAAAABAJ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishmir123&label=Profile%20views&color=0e75b6&style=flat" alt="anishmir123" /> </p>
 
 - 🌱 I’m currently learning **Computer Science and Engineering**
